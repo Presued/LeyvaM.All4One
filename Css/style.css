@@ -1,0 +1,96 @@
+@font-face {
+    font-family: Harry Potter;
+    src: url(../fonts/HarryPotter-ov4z.ttf);
+}
+.homeImg{
+    background-image: url(../Asset/HarryPHome.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.gModeImg{
+    background-image: url(../Asset/HrryP.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.helloImg{
+    background-image: url(../Asset/HryP.jpeg);
+     background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.addTwoNumImg{
+    background-image: url(../Asset/128530-Harry-Potter-Hogwarts-castle.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.askingImg{
+    background-image: url(../Asset/harry_potter_and_the_chamber_of_secrets_fanart_05_by_vladislavpantic_ddy8o9k-350t.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.gtoImg{
+    background-image: url(../Asset/DragonHP.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.madImg{
+    background-image: url(../Asset/HAP.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.OoEImg{
+    background-image: url(../Asset/HP7-fullview.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.reverseImg{
+    background-image: url(../Asset/HarryAst.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.sDirectImg{
+    background-image: url(../Asset/platform.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.resImg{
+    background-image: url(../Asset/harry-potter-glowing-stag-patronus-s1oebg9fkdiwur6p.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.HS{
+    display: flex;
+    justify-content: end;
+    font-size: xx-large;
+    color: whitesmoke;
+    font-family: Harry Potter;
+}
+.HSS{
+    padding-left: 7rem;
+}
+.GM{
+    color: whitesmoke;
+}
+.MM{
+    text-align: center;
+    color: whitesmoke;
+    font-family: Harry Potter;
+}
+.AO{
+    opacity: 0%;
+}
+.BB{
+    color: black;
+    font-family: Harry Potter;
+    text-align: center;
+}
